@@ -1,0 +1,14 @@
+D:\Learning\DotNet Core\CRUD-WebAPI\bin\Debug\netcoreapp2.2\CRUD-WebAPI.deps.json
+D:\Learning\DotNet Core\CRUD-WebAPI\bin\Debug\netcoreapp2.2\CRUD-WebAPI.runtimeconfig.json
+D:\Learning\DotNet Core\CRUD-WebAPI\bin\Debug\netcoreapp2.2\CRUD-WebAPI.runtimeconfig.dev.json
+D:\Learning\DotNet Core\CRUD-WebAPI\bin\Debug\netcoreapp2.2\CRUD-WebAPI.dll
+D:\Learning\DotNet Core\CRUD-WebAPI\obj\Debug\netcoreapp2.2\CRUD-WebAPI.csprojAssemblyReference.cache
+D:\Learning\DotNet Core\CRUD-WebAPI\obj\Debug\netcoreapp2.2\CRUD-WebAPI.csproj.CoreCompileInputs.cache
+D:\Learning\DotNet Core\CRUD-WebAPI\obj\Debug\netcoreapp2.2\CRUD-WebAPI.RazorAssemblyInfo.cache
+D:\Learning\DotNet Core\CRUD-WebAPI\obj\Debug\netcoreapp2.2\CRUD-WebAPI.RazorAssemblyInfo.cs
+D:\Learning\DotNet Core\CRUD-WebAPI\obj\Debug\netcoreapp2.2\CRUD-WebAPI.AssemblyInfoInputs.cache
+D:\Learning\DotNet Core\CRUD-WebAPI\obj\Debug\netcoreapp2.2\CRUD-WebAPI.AssemblyInfo.cs
+D:\Learning\DotNet Core\CRUD-WebAPI\obj\Debug\netcoreapp2.2\CRUD-WebAPI.RazorTargetAssemblyInfo.cache
+D:\Learning\DotNet Core\CRUD-WebAPI\bin\Debug\netcoreapp2.2\CRUD-WebAPI.pdb
+D:\Learning\DotNet Core\CRUD-WebAPI\obj\Debug\netcoreapp2.2\CRUD-WebAPI.dll
+D:\Learning\DotNet Core\CRUD-WebAPI\obj\Debug\netcoreapp2.2\CRUD-WebAPI.pdb
